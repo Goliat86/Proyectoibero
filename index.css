@@ -3,12 +3,12 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-.menup{
+.miheather{
     
 
-   width: auto;
+    width: auto;
     height: auto;
-    background-image: linear-gradient(to top, #36084b 0%, #21d4fd 100%);
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
    
     margin-top: 30px;
     border-radius: 50px;
@@ -46,7 +46,7 @@
 
 
 .contenedor{
-    background-image: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     width: 100%;
     height: auto;
    
@@ -141,20 +141,20 @@
 
 footer{
     margin-top: 30px;
-    background-image: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     width: 100%;
     border-radius: 30px;
     border: 1px solid rgb(0, 179, 255);
     box-shadow: 0px 10px 20px 5px rgba(5, 31, 56, 0.586);
 }
 .footer-copyright{
-    background-image: linear-gradient(to top, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #072933 100%);
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 }
 footer h5{
-    color: azure; 
+    color: #161a1a; 
 }
 footer p{
-    color: rgb(175, 238, 238); 
+    color: #161a1a; 
 }
 footer img{
     
@@ -166,3 +166,11 @@ footer img{
 footer .list-unstyled{
 margin-top: 30px;
 }
+
+.col-12.col-sm-12.col-md-3.col-lg-2.col-xl-2 {
+    padding: 8px;
+    border: solid 1px #ebebeb;
+    background-position: center;
+    height: 172px;
+}
+
